@@ -564,8 +564,6 @@ or equivalently
 - or to search the help files use `help.search("plot")` or `??plot`
 ]
 ---
-
----
 class: left, top
 
 <br>
