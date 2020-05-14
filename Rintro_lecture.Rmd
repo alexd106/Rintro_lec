@@ -599,3 +599,11 @@ class: left, top
 
 - recognise that there will be times when things will get a little tough or frustrating. Try to accept these periods as part of the natural process of learning a new skill (we’ve all been there) and remember, the time and energy you invest now will be more than payed back in the not too distant future.
 ]
+---
+class: center, middle
+
+# Let's get started...
+
+<img src = "images/force.gif" width = 600px>
+
+---

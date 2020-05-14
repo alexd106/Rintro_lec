@@ -15,8 +15,6 @@
 }
 </style>
 
-
-
 <div class="resp-container">
     <iframe class="testiframe" src="https://alexd106.github.io/Rintro_lec/Rintro_lecture.html">
       Fallback text here for unsupporting browsers, of which there are scant few.
