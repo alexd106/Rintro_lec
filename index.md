@@ -1,4 +1,3 @@
-## CSS styles
 <style>
 .resp-container {
     position: relative;
@@ -17,7 +16,6 @@
 </style>
 
 
-## html iframe to embed the slide.
 
 <div class="resp-container">
     <iframe class="testiframe" src="https://alexd106.github.io/Rintro_lec/Rintro_lecture.html">
