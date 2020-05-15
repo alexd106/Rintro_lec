@@ -27,9 +27,9 @@ options(htmltools.dir.version = FALSE)
 library(xaringanthemer)
 style_mono_accent(
   base_color = "#1F4257",
-  header_font_google = google_font("Josefin Sans"),
-  text_font_google   = google_font("Montserrat", "300", "300i"),
-  code_font_google   = google_font("Droid Mono")
+  # header_font_google = google_font("Josefin Sans"),
+  # text_font_google   = google_font("Montserrat", "300", "300i"),
+  # code_font_google   = google_font("Droid Mono")
 )
 ```
 
@@ -461,7 +461,7 @@ class: left, top
 
 - there are packages for almost anything
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 - install packages from [CRAN](https://cran.r-project.org/), [Bioconductor](https://www.bioconductor.org/) and [GitHub](https://github.com/)
 
 - packages are easy to install in R
