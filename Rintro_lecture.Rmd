@@ -43,7 +43,7 @@ class: title-slide, center, middle
 
 ### `r rmarkdown::metadata$institute`
 
-#### `r rmarkdown::metadata$event` &#183; 2019
+<!-- #### `r rmarkdown::metadata$event` &#183; 2019 -->
 
 ---
 
