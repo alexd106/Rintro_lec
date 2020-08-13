@@ -95,7 +95,7 @@ class: left, middle
 
 ---
 
-background-image: url(images/Rcover_v2.png)
+background-image: url(images/cover_v3.png)
 background-size: 200px
 background-position: 90% 60%
 
